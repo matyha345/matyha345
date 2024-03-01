@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolay
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+👋+,+I'm Nikolay)](https://git.io/typing-svg)
 
 <!--
 **matyha345/matyha345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
