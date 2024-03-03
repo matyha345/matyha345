@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
 
 
-<div align="flex">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
 [QuickChat Search WhatsApp](https://quickchatwhatsapp.ru)
