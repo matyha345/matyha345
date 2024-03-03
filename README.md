@@ -20,6 +20,8 @@
 
 </div>
 
+<hr>
+
 <div align="center" >
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=matyha345)](https://github.com/matyha345/github-profile-trophy)
