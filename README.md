@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
 
 
+<div align="flex">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
+[QuickChat Search WhatsApp](https://quickchatwhatsapp.ru)
+  
+</div>
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,8 +26,6 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 </div>
-
-[QuickChat Search WhatsApp](https://quickchatwhatsapp.ru)
 
 <div align="center" >
   
