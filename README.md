@@ -27,7 +27,7 @@
 
 </div>
 
-[QuickChat Search WhatsApp](https://quickchatwhatsapp.ru)
+[Ускорьте свой поиск в WhatsApp с помощью QuickChat](https://quickchatwhatsapp.ru)
 <!--
 **matyha345/matyha345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
